@@ -14,5 +14,3 @@
 
 ## I Copied code for Table from:
 - [codesandbox](https://codesandbox.io/s/github/lydiacupery/infinite-scroll-example) ,don't know if this guy copied it from elsewhere
-
-### Sending by email, (Did not upload to git for copyright issues), removed node modules (to reduce size)
