@@ -1,21 +1,18 @@
 ## MAIIA - Frontend Technical Test
 
-First install the project dependencies:
 
-```bash
-yarn install
-```
+## What I did:
+- All the Required things (hopefully)
+- Focused on doing things that would work on maiia production website (millions of everything. I did not write very optimized code, but it won't crash at least :D )
 
-Then run the development server:
 
-```bash
-yarn dev
-```
+## What I did not do:
+- Did not use redux a lot, cause i don't think that these data models should be stored in redux.
+- Polish the UI, cause I don't like wasting time in what the designer should do (again i have seen maiia's website, and they do have very good designers)
+- Did not enjoy the test. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see instructions for the technical test.
 
-## Editor
+## I Copied code for Table from:
+- [codesandbox](https://codesandbox.io/s/github/lydiacupery/infinite-scroll-example) ,don't know if this guy copied it from elsewhere
 
-The instructions work best with Visual Studio Code which provides an API to open local files directly from the browser by clicking a link.
-
-If you favor another text editor providing a similar API feel free to modify `src/components/EditorLink.tsx` to suit your needs.
+### Sending by email, (Did not upload to git for copyright issues), removed node modules (to reduce size)
